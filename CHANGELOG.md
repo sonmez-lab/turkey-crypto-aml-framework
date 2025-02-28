@@ -8,3 +8,4 @@ All notable changes to this project.
 - [2025-02-27] Docs: API integration guidelines
 - [2025-02-27] Docs: regulatory framework notes
 - [2025-02-27] Docs: regulatory framework notes
+- [2025-02-27] Research: cross-border transaction monitoring
