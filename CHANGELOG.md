@@ -9,3 +9,4 @@ All notable changes to this project.
 - [2025-02-27] Docs: regulatory framework notes
 - [2025-02-27] Docs: regulatory framework notes
 - [2025-02-27] Research: cross-border transaction monitoring
+- [2025-02-28] Refactor: compliance validation logic
