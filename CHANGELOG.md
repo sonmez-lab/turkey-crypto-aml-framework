@@ -17,3 +17,4 @@ All notable changes to this project.
 - [2025-03-03] Refactor: compliance validation logic
 - [2025-03-03] Research: DeFi compliance requirements
 - [2025-03-03] Update: OFAC SDN list integration
+- [2025-03-04] Add: smart contract audit findings
