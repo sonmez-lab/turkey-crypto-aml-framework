@@ -20,3 +20,4 @@ All notable changes to this project.
 - [2025-03-04] Add: smart contract audit findings
 - [2025-03-05] Fix: address validation edge cases
 - [2025-03-05] Update: AML risk assessment methodology
+- [2025-03-05] Add: transaction risk scoring model
