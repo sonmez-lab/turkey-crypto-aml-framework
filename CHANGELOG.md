@@ -28,3 +28,4 @@ All notable changes to this project.
 - [2025-03-10] Analysis: FATF travel rule implementation
 - [2025-03-10] Fix: address validation edge cases
 - [2025-03-10] Research: cross-border transaction monitoring
+- [2025-03-11] Research: cross-border transaction monitoring
