@@ -26,3 +26,4 @@ All notable changes to this project.
 - [2025-03-07] Update: OFAC SDN list integration
 - [2025-03-08] Refactor: compliance validation logic
 - [2025-03-10] Analysis: FATF travel rule implementation
+- [2025-03-10] Fix: address validation edge cases
