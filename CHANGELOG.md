@@ -36,3 +36,4 @@ All notable changes to this project.
 - [2025-03-12] Research: DeFi compliance requirements
 - [2025-03-12] Docs: regulatory framework notes
 - [2025-03-12] Update: OFAC SDN list integration
+- [2025-03-13] Add: smart contract audit findings
