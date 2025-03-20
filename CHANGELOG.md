@@ -46,3 +46,4 @@ All notable changes to this project.
 - [2025-03-18] Docs: regulatory framework notes
 - [2025-03-18] Add: sanctions screening documentation
 - [2025-03-19] Add: smart contract audit findings
+- [2025-03-19] Update: watchlist matching algorithm
