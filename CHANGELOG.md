@@ -51,3 +51,4 @@ All notable changes to this project.
 - [2025-03-20] Update: KYC/KYT process documentation
 - [2025-03-20] Add: transaction risk scoring model
 - [2025-03-26] Update: watchlist matching algorithm
+- [2025-03-27] Analysis: FATF travel rule implementation
