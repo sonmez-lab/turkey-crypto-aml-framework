@@ -53,3 +53,4 @@ All notable changes to this project.
 - [2025-03-26] Update: watchlist matching algorithm
 - [2025-03-27] Analysis: FATF travel rule implementation
 - [2025-03-29] Update: KYC/KYT process documentation
+- [2025-03-30] Docs: API integration guidelines
