@@ -57,3 +57,4 @@ All notable changes to this project.
 - [2025-03-31] Add: sanctions screening documentation
 - [2025-03-31] Research: DeFi compliance requirements
 - [2025-04-01] Docs: regulatory framework notes
+- [2025-04-01] Update: OFAC SDN list integration
