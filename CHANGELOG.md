@@ -59,3 +59,4 @@ All notable changes to this project.
 - [2025-04-01] Docs: regulatory framework notes
 - [2025-04-01] Update: OFAC SDN list integration
 - [2025-04-02] Update: KYC/KYT process documentation
+- [2025-04-03] Research: cross-border transaction monitoring
