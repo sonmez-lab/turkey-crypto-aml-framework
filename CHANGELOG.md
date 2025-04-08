@@ -68,3 +68,4 @@ All notable changes to this project.
 - [2025-04-07] Update: OFAC SDN list integration
 - [2025-04-07] Analysis: FATF travel rule implementation
 - [2025-04-07] Analysis: FATF travel rule implementation
+- [2025-04-08] Update: OFAC SDN list integration
