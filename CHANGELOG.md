@@ -72,3 +72,4 @@ All notable changes to this project.
 - [2025-04-08] Update: AML risk assessment methodology
 - [2025-04-09] Research: DeFi compliance requirements
 - [2025-04-09] Update: AML risk assessment methodology
+- [2025-04-09] Update: OFAC SDN list integration
