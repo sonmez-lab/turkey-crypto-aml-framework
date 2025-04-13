@@ -77,3 +77,4 @@ All notable changes to this project.
 - [2025-04-11] Docs: API integration guidelines
 - [2025-04-11] Update: watchlist matching algorithm
 - [2025-04-11] Add: sanctions screening documentation
+- [2025-04-13] Docs: regulatory framework notes
