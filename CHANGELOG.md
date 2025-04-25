@@ -99,3 +99,4 @@ All notable changes to this project.
 - [2025-04-24] Docs: regulatory framework notes
 - [2025-04-24] Docs: API integration guidelines
 - [2025-04-25] Update: KYC/KYT process documentation
+- [2025-04-25] Update: AML risk assessment methodology
