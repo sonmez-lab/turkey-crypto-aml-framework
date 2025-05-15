@@ -136,3 +136,4 @@ All notable changes to this project.
 - [2025-05-14] Research: DeFi compliance requirements
 - [2025-05-15] Research: cross-border transaction monitoring
 - [2025-05-15] Add: smart contract audit findings
+- [2025-05-15] Refactor: compliance validation logic
