@@ -133,3 +133,4 @@ All notable changes to this project.
 - [2025-05-13] Analysis: FATF travel rule implementation
 - [2025-05-14] Update: watchlist matching algorithm
 - [2025-05-14] Research: DeFi compliance requirements
+- [2025-05-14] Research: DeFi compliance requirements
