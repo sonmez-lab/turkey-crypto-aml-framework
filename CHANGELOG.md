@@ -140,3 +140,4 @@ All notable changes to this project.
 - [2025-05-16] Docs: regulatory framework notes
 - [2025-05-17] Docs: regulatory framework notes
 - [2025-05-17] Research: DeFi compliance requirements
+- [2025-05-19] Docs: API integration guidelines
