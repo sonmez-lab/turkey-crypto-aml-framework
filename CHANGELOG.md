@@ -142,3 +142,4 @@ All notable changes to this project.
 - [2025-05-17] Research: DeFi compliance requirements
 - [2025-05-19] Docs: API integration guidelines
 - [2025-05-20] Update: KYC/KYT process documentation
+- [2025-05-20] Add: smart contract audit findings
