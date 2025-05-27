@@ -153,3 +153,4 @@ All notable changes to this project.
 - [2025-05-25] Fix: address validation edge cases
 - [2025-05-25] Update: watchlist matching algorithm
 - [2025-05-26] Update: AML risk assessment methodology
+- [2025-05-26] Add: sanctions screening documentation
