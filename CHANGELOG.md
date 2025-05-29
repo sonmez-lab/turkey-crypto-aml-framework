@@ -160,3 +160,4 @@ All notable changes to this project.
 - [2025-05-28] Research: blockchain compliance analysis
 - [2025-05-29] Docs: regulatory framework notes
 - [2025-05-29] Docs: API integration guidelines
+- [2025-05-29] Update: watchlist matching algorithm
