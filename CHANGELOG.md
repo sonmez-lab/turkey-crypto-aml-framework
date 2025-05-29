@@ -155,3 +155,4 @@ All notable changes to this project.
 - [2025-05-26] Update: AML risk assessment methodology
 - [2025-05-26] Add: sanctions screening documentation
 - [2025-05-26] Add: sanctions screening documentation
+- [2025-05-28] Docs: regulatory framework notes
