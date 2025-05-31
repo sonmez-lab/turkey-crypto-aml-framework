@@ -166,3 +166,4 @@ All notable changes to this project.
 - [2025-05-30] Add: sanctions screening documentation
 - [2025-05-30] Update: KYC/KYT process documentation
 - [2025-05-31] Docs: API integration guidelines
+- [2025-05-31] Update: AML risk assessment methodology
