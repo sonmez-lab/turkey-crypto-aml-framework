@@ -173,3 +173,4 @@ All notable changes to this project.
 - [2025-06-02] Update: watchlist matching algorithm
 - [2025-06-02] Add: sanctions screening documentation
 - [2025-06-02] Update: AML risk assessment methodology
+- [2025-06-03] Analysis: FATF travel rule implementation
