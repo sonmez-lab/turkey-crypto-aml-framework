@@ -176,3 +176,4 @@ All notable changes to this project.
 - [2025-06-03] Analysis: FATF travel rule implementation
 - [2025-06-04] Add: smart contract audit findings
 - [2025-06-05] Add: sanctions screening documentation
+- [2025-06-06] Research: cross-border transaction monitoring
