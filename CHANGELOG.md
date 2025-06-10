@@ -182,3 +182,4 @@ All notable changes to this project.
 - [2025-06-06] Update: KYC/KYT process documentation
 - [2025-06-09] Analysis: FATF travel rule implementation
 - [2025-06-09] Analysis: FATF travel rule implementation
+- [2025-06-09] Update: KYC/KYT process documentation
