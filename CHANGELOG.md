@@ -194,3 +194,4 @@ All notable changes to this project.
 - [2025-06-12] Add: sanctions screening documentation
 - [2025-06-13] Add: transaction risk scoring model
 - [2025-06-13] Research: blockchain compliance analysis
+- [2025-06-13] Update: AML risk assessment methodology
