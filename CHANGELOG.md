@@ -201,3 +201,4 @@ All notable changes to this project.
 - [2025-06-16] Refactor: compliance validation logic
 - [2025-06-18] Analysis: FATF travel rule implementation
 - [2025-06-19] Docs: API integration guidelines
+- [2025-06-20] Update: watchlist matching algorithm
