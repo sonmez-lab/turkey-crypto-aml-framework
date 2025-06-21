@@ -204,3 +204,4 @@ All notable changes to this project.
 - [2025-06-20] Update: watchlist matching algorithm
 - [2025-06-20] Update: AML risk assessment methodology
 - [2025-06-20] Add: transaction risk scoring model
+- [2025-06-20] Research: blockchain compliance analysis
