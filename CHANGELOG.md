@@ -207,3 +207,4 @@ All notable changes to this project.
 - [2025-06-20] Research: blockchain compliance analysis
 - [2025-06-21] Docs: regulatory framework notes
 - [2025-06-21] Research: cross-border transaction monitoring
+- [2025-06-22] Research: blockchain compliance analysis
