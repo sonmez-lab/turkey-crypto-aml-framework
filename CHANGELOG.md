@@ -211,3 +211,4 @@ All notable changes to this project.
 - [2025-06-22] Docs: regulatory framework notes
 - [2025-06-24] Docs: API integration guidelines
 - [2025-06-24] Analysis: FATF travel rule implementation
+- [2025-06-24] Update: OFAC SDN list integration
