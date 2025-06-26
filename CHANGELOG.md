@@ -218,3 +218,4 @@ All notable changes to this project.
 - [2025-06-25] Update: AML risk assessment methodology
 - [2025-06-26] Update: KYC/KYT process documentation
 - [2025-06-26] Docs: regulatory framework notes
+- [2025-06-26] Refactor: compliance validation logic
