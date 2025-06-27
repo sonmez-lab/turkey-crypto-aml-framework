@@ -221,3 +221,4 @@ All notable changes to this project.
 - [2025-06-26] Refactor: compliance validation logic
 - [2025-06-27] Research: DeFi compliance requirements
 - [2025-06-27] Analysis: FATF travel rule implementation
+- [2025-06-27] Research: cross-border transaction monitoring
