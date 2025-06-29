@@ -224,3 +224,4 @@ All notable changes to this project.
 - [2025-06-27] Research: cross-border transaction monitoring
 - [2025-06-28] Update: OFAC SDN list integration
 - [2025-06-28] Research: DeFi compliance requirements
+- [2025-06-29] Fix: address validation edge cases
