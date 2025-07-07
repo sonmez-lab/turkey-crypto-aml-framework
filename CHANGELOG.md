@@ -238,3 +238,4 @@ All notable changes to this project.
 - [2025-07-03] Analysis: FATF travel rule implementation
 - [2025-07-04] Analysis: FATF travel rule implementation
 - [2025-07-04] Fix: address validation edge cases
+- [2025-07-07] Add: smart contract audit findings
