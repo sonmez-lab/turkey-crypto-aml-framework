@@ -241,3 +241,4 @@ All notable changes to this project.
 - [2025-07-07] Add: smart contract audit findings
 - [2025-07-07] Research: blockchain compliance analysis
 - [2025-07-07] Update: OFAC SDN list integration
+- [2025-07-07] Analysis: FATF travel rule implementation
