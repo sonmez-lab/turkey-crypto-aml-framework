@@ -245,3 +245,4 @@ All notable changes to this project.
 - [2025-07-08] Refactor: compliance validation logic
 - [2025-07-08] Research: cross-border transaction monitoring
 - [2025-07-10] Update: OFAC SDN list integration
+- [2025-07-11] Refactor: compliance validation logic
