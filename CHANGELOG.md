@@ -252,3 +252,4 @@ All notable changes to this project.
 - [2025-07-14] Update: AML risk assessment methodology
 - [2025-07-14] Update: watchlist matching algorithm
 - [2025-07-14] Research: cross-border transaction monitoring
+- [2025-07-15] Update: KYC/KYT process documentation
