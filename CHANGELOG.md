@@ -257,3 +257,4 @@ All notable changes to this project.
 - [2025-07-15] Research: cross-border transaction monitoring
 - [2025-07-16] Docs: regulatory framework notes
 - [2025-07-16] Refactor: compliance validation logic
+- [2025-07-16] Research: blockchain compliance analysis
