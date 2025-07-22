@@ -265,3 +265,4 @@ All notable changes to this project.
 - [2025-07-21] Research: blockchain compliance analysis
 - [2025-07-21] Research: DeFi compliance requirements
 - [2025-07-21] Refactor: compliance validation logic
+- [2025-07-22] Add: transaction risk scoring model
