@@ -272,3 +272,4 @@ All notable changes to this project.
 - [2025-07-23] Docs: regulatory framework notes
 - [2025-07-23] Docs: API integration guidelines
 - [2025-07-23] Add: sanctions screening documentation
+- [2025-07-24] Update: AML risk assessment methodology
