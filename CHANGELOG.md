@@ -278,3 +278,4 @@ All notable changes to this project.
 - [2025-07-26] Fix: address validation edge cases
 - [2025-07-27] Fix: address validation edge cases
 - [2025-07-27] Docs: regulatory framework notes
+- [2025-07-28] Research: blockchain compliance analysis
