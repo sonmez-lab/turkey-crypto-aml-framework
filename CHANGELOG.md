@@ -281,3 +281,4 @@ All notable changes to this project.
 - [2025-07-28] Research: blockchain compliance analysis
 - [2025-07-28] Refactor: compliance validation logic
 - [2025-07-28] Update: watchlist matching algorithm
+- [2025-07-29] Add: sanctions screening documentation
