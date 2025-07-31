@@ -286,3 +286,4 @@ All notable changes to this project.
 - [2025-07-30] Docs: regulatory framework notes
 - [2025-07-30] Update: AML risk assessment methodology
 - [2025-07-31] Refactor: compliance validation logic
+- [2025-07-31] Update: OFAC SDN list integration
