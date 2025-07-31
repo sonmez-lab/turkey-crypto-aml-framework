@@ -283,3 +283,4 @@ All notable changes to this project.
 - [2025-07-28] Update: watchlist matching algorithm
 - [2025-07-29] Add: sanctions screening documentation
 - [2025-07-30] Add: transaction risk scoring model
+- [2025-07-30] Docs: regulatory framework notes
