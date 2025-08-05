@@ -295,3 +295,4 @@ All notable changes to this project.
 - [2025-08-01] Add: transaction risk scoring model
 - [2025-08-02] Docs: regulatory framework notes
 - [2025-08-04] Update: watchlist matching algorithm
+- [2025-08-04] Analysis: FATF travel rule implementation
