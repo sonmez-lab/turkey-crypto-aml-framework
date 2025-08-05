@@ -300,3 +300,4 @@ All notable changes to this project.
 - [2025-08-04] Add: smart contract audit findings
 - [2025-08-05] Update: AML risk assessment methodology
 - [2025-08-05] Update: watchlist matching algorithm
+- [2025-08-05] Research: cross-border transaction monitoring
