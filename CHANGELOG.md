@@ -302,3 +302,4 @@ All notable changes to this project.
 - [2025-08-05] Update: watchlist matching algorithm
 - [2025-08-05] Research: cross-border transaction monitoring
 - [2025-08-05] Analysis: FATF travel rule implementation
+- [2025-08-06] Update: KYC/KYT process documentation
