@@ -308,3 +308,4 @@ All notable changes to this project.
 - [2025-08-06] Add: sanctions screening documentation
 - [2025-08-07] Analysis: FATF travel rule implementation
 - [2025-08-07] Update: AML risk assessment methodology
+- [2025-08-08] Add: sanctions screening documentation
