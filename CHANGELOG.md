@@ -311,3 +311,4 @@ All notable changes to this project.
 - [2025-08-08] Add: sanctions screening documentation
 - [2025-08-08] Docs: regulatory framework notes
 - [2025-08-08] Update: watchlist matching algorithm
+- [2025-08-08] Docs: regulatory framework notes
