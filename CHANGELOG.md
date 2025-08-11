@@ -314,3 +314,4 @@ All notable changes to this project.
 - [2025-08-08] Docs: regulatory framework notes
 - [2025-08-09] Refactor: compliance validation logic
 - [2025-08-10] Research: DeFi compliance requirements
+- [2025-08-11] Update: AML risk assessment methodology
