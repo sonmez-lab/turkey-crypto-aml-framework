@@ -318,3 +318,4 @@ All notable changes to this project.
 - [2025-08-11] Research: cross-border transaction monitoring
 - [2025-08-11] Add: sanctions screening documentation
 - [2025-08-12] Docs: API integration guidelines
+- [2025-08-12] Research: DeFi compliance requirements
