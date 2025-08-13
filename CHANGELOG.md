@@ -317,3 +317,4 @@ All notable changes to this project.
 - [2025-08-11] Update: AML risk assessment methodology
 - [2025-08-11] Research: cross-border transaction monitoring
 - [2025-08-11] Add: sanctions screening documentation
+- [2025-08-12] Docs: API integration guidelines
