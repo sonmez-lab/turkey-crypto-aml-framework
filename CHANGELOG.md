@@ -320,3 +320,4 @@ All notable changes to this project.
 - [2025-08-12] Docs: API integration guidelines
 - [2025-08-12] Research: DeFi compliance requirements
 - [2025-08-12] Update: AML risk assessment methodology
+- [2025-08-12] Research: cross-border transaction monitoring
