@@ -325,3 +325,4 @@ All notable changes to this project.
 - [2025-08-13] Docs: API integration guidelines
 - [2025-08-14] Fix: address validation edge cases
 - [2025-08-15] Add: sanctions screening documentation
+- [2025-08-15] Add: sanctions screening documentation
