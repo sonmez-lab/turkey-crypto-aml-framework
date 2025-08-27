@@ -343,3 +343,4 @@ All notable changes to this project.
 - [2025-08-26] Add: smart contract audit findings
 - [2025-08-26] Research: blockchain compliance analysis
 - [2025-08-26] Analysis: FATF travel rule implementation
+- [2025-08-27] Research: cross-border transaction monitoring
