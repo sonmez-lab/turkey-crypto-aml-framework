@@ -345,3 +345,4 @@ All notable changes to this project.
 - [2025-08-26] Analysis: FATF travel rule implementation
 - [2025-08-27] Research: cross-border transaction monitoring
 - [2025-08-28] Refactor: compliance validation logic
+- [2025-08-29] Update: AML risk assessment methodology
