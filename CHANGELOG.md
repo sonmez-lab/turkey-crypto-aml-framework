@@ -353,3 +353,4 @@ All notable changes to this project.
 - [2025-09-01] Add: sanctions screening documentation
 - [2025-09-01] Analysis: FATF travel rule implementation
 - [2025-09-02] Research: blockchain compliance analysis
+- [2025-09-03] Fix: address validation edge cases
