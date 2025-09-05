@@ -359,3 +359,4 @@ All notable changes to this project.
 - [2025-09-04] Add: transaction risk scoring model
 - [2025-09-04] Research: blockchain compliance analysis
 - [2025-09-04] Research: blockchain compliance analysis
+- [2025-09-04] Refactor: compliance validation logic
