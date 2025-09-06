@@ -360,3 +360,4 @@ All notable changes to this project.
 - [2025-09-04] Research: blockchain compliance analysis
 - [2025-09-04] Research: blockchain compliance analysis
 - [2025-09-04] Refactor: compliance validation logic
+- [2025-09-05] Add: smart contract audit findings
