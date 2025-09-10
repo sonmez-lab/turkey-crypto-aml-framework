@@ -368,3 +368,4 @@ All notable changes to this project.
 - [2025-09-09] Update: AML risk assessment methodology
 - [2025-09-09] Docs: regulatory framework notes
 - [2025-09-10] Update: AML risk assessment methodology
+- [2025-09-10] Fix: address validation edge cases
