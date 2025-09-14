@@ -377,3 +377,4 @@ All notable changes to this project.
 - [2025-09-12] Analysis: FATF travel rule implementation
 - [2025-09-12] Analysis: FATF travel rule implementation
 - [2025-09-12] Update: watchlist matching algorithm
+- [2025-09-13] Analysis: FATF travel rule implementation
