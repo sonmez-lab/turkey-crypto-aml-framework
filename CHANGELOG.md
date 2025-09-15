@@ -381,3 +381,4 @@ All notable changes to this project.
 - [2025-09-13] Refactor: compliance validation logic
 - [2025-09-15] Docs: regulatory framework notes
 - [2025-09-15] Add: transaction risk scoring model
+- [2025-09-15] Update: watchlist matching algorithm
