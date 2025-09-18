@@ -386,3 +386,4 @@ All notable changes to this project.
 - [2025-09-16] Add: smart contract audit findings
 - [2025-09-16] Docs: regulatory framework notes
 - [2025-09-16] Docs: regulatory framework notes
+- [2025-09-17] Update: watchlist matching algorithm
