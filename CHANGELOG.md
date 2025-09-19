@@ -394,3 +394,4 @@ All notable changes to this project.
 - [2025-09-19] Docs: API integration guidelines
 - [2025-09-19] Research: cross-border transaction monitoring
 - [2025-09-19] Update: OFAC SDN list integration
+- [2025-09-19] Add: transaction risk scoring model
