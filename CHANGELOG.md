@@ -397,3 +397,4 @@ All notable changes to this project.
 - [2025-09-19] Add: transaction risk scoring model
 - [2025-09-22] Research: cross-border transaction monitoring
 - [2025-09-24] Add: sanctions screening documentation
+- [2025-09-24] Docs: API integration guidelines
