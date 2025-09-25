@@ -400,3 +400,4 @@ All notable changes to this project.
 - [2025-09-24] Docs: API integration guidelines
 - [2025-09-24] Update: OFAC SDN list integration
 - [2025-09-24] Add: sanctions screening documentation
+- [2025-09-25] Update: KYC/KYT process documentation
