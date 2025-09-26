@@ -402,3 +402,4 @@ All notable changes to this project.
 - [2025-09-24] Add: sanctions screening documentation
 - [2025-09-25] Update: KYC/KYT process documentation
 - [2025-09-25] Research: blockchain compliance analysis
+- [2025-09-26] Add: transaction risk scoring model
