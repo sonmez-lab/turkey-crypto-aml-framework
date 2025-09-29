@@ -404,3 +404,4 @@ All notable changes to this project.
 - [2025-09-25] Research: blockchain compliance analysis
 - [2025-09-26] Add: transaction risk scoring model
 - [2025-09-29] Research: DeFi compliance requirements
+- [2025-09-29] Update: OFAC SDN list integration
