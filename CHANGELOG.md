@@ -411,3 +411,4 @@ All notable changes to this project.
 - [2025-10-02] Update: AML risk assessment methodology
 - [2025-10-02] Add: smart contract audit findings
 - [2025-10-02] Update: watchlist matching algorithm
+- [2025-10-02] Update: KYC/KYT process documentation
