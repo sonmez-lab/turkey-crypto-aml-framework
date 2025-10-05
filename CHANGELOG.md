@@ -415,3 +415,4 @@ All notable changes to this project.
 - [2025-10-03] Fix: address validation edge cases
 - [2025-10-04] Update: KYC/KYT process documentation
 - [2025-10-04] Research: DeFi compliance requirements
+- [2025-10-05] Refactor: compliance validation logic
