@@ -417,3 +417,4 @@ All notable changes to this project.
 - [2025-10-04] Research: DeFi compliance requirements
 - [2025-10-05] Refactor: compliance validation logic
 - [2025-10-06] Research: DeFi compliance requirements
+- [2025-10-06] Research: DeFi compliance requirements
