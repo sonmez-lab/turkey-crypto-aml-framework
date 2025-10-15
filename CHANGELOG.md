@@ -431,3 +431,4 @@ All notable changes to this project.
 - [2025-10-14] Add: sanctions screening documentation
 - [2025-10-15] Update: OFAC SDN list integration
 - [2025-10-15] Docs: regulatory framework notes
+- [2025-10-15] Docs: regulatory framework notes
