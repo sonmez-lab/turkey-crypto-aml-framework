@@ -435,3 +435,4 @@ All notable changes to this project.
 - [2025-10-15] Research: blockchain compliance analysis
 - [2025-10-16] Add: sanctions screening documentation
 - [2025-10-16] Update: OFAC SDN list integration
+- [2025-10-17] Research: DeFi compliance requirements
