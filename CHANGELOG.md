@@ -442,3 +442,4 @@ All notable changes to this project.
 - [2025-10-18] Add: transaction risk scoring model
 - [2025-10-19] Update: watchlist matching algorithm
 - [2025-10-20] Research: blockchain compliance analysis
+- [2025-10-20] Add: smart contract audit findings
