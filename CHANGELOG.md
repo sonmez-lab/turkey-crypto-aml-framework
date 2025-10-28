@@ -455,3 +455,4 @@ All notable changes to this project.
 - [2025-10-28] Update: KYC/KYT process documentation
 - [2025-10-28] Add: transaction risk scoring model
 - [2025-10-28] Research: DeFi compliance requirements
+- [2025-10-28] Add: smart contract audit findings
