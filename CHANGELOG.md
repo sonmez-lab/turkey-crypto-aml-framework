@@ -452,3 +452,4 @@ All notable changes to this project.
 - [2025-10-27] Update: AML risk assessment methodology
 - [2025-10-27] Add: sanctions screening documentation
 - [2025-10-27] Add: transaction risk scoring model
+- [2025-10-28] Update: KYC/KYT process documentation
