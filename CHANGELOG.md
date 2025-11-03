@@ -465,3 +465,4 @@ All notable changes to this project.
 - [2025-11-01] Add: transaction risk scoring model
 - [2025-11-02] Add: smart contract audit findings
 - [2025-11-02] Update: AML risk assessment methodology
+- [2025-11-03] Analysis: FATF travel rule implementation
