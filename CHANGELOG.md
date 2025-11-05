@@ -467,3 +467,4 @@ All notable changes to this project.
 - [2025-11-02] Update: AML risk assessment methodology
 - [2025-11-03] Analysis: FATF travel rule implementation
 - [2025-11-04] Update: AML risk assessment methodology
+- [2025-11-05] Docs: API integration guidelines
