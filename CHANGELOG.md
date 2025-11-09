@@ -473,3 +473,4 @@ All notable changes to this project.
 - [2025-11-06] Update: AML risk assessment methodology
 - [2025-11-08] Update: AML risk assessment methodology
 - [2025-11-08] Update: AML risk assessment methodology
+- [2025-11-09] Refactor: compliance validation logic
