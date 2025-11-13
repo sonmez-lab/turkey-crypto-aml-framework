@@ -475,3 +475,4 @@ All notable changes to this project.
 - [2025-11-08] Update: AML risk assessment methodology
 - [2025-11-09] Refactor: compliance validation logic
 - [2025-11-12] Add: smart contract audit findings
+- [2025-11-13] Add: smart contract audit findings
