@@ -477,3 +477,4 @@ All notable changes to this project.
 - [2025-11-12] Add: smart contract audit findings
 - [2025-11-13] Add: smart contract audit findings
 - [2025-11-13] Analysis: FATF travel rule implementation
+- [2025-11-13] Update: KYC/KYT process documentation
