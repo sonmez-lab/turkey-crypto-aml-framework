@@ -479,3 +479,4 @@ All notable changes to this project.
 - [2025-11-13] Analysis: FATF travel rule implementation
 - [2025-11-13] Update: KYC/KYT process documentation
 - [2025-11-13] Update: KYC/KYT process documentation
+- [2025-11-14] Analysis: FATF travel rule implementation
