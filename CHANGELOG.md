@@ -484,3 +484,4 @@ All notable changes to this project.
 - [2025-11-14] Analysis: FATF travel rule implementation
 - [2025-11-16] Analysis: FATF travel rule implementation
 - [2025-11-17] Refactor: compliance validation logic
+- [2025-11-17] Update: AML risk assessment methodology
