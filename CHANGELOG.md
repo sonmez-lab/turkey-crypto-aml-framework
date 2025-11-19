@@ -487,3 +487,4 @@ All notable changes to this project.
 - [2025-11-17] Update: AML risk assessment methodology
 - [2025-11-18] Update: AML risk assessment methodology
 - [2025-11-18] Update: watchlist matching algorithm
+- [2025-11-19] Add: smart contract audit findings
