@@ -499,3 +499,4 @@ All notable changes to this project.
 - [2025-11-23] Docs: API integration guidelines
 - [2025-11-23] Docs: API integration guidelines
 - [2025-11-24] Research: blockchain compliance analysis
+- [2025-11-24] Docs: API integration guidelines
