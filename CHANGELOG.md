@@ -506,3 +506,4 @@ All notable changes to this project.
 - [2025-11-27] Fix: address validation edge cases
 - [2025-11-27] Update: OFAC SDN list integration
 - [2025-11-27] Research: DeFi compliance requirements
+- [2025-11-27] Update: AML risk assessment methodology
