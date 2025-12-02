@@ -509,3 +509,4 @@ All notable changes to this project.
 - [2025-11-27] Update: AML risk assessment methodology
 - [2025-11-28] Add: transaction risk scoring model
 - [2025-12-02] Refactor: compliance validation logic
+- [2025-12-02] Update: OFAC SDN list integration
