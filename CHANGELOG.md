@@ -513,3 +513,4 @@ All notable changes to this project.
 - [2025-12-05] Update: KYC/KYT process documentation
 - [2025-12-05] Research: cross-border transaction monitoring
 - [2025-12-10] Update: AML risk assessment methodology
+- [2025-12-10] Analysis: FATF travel rule implementation
