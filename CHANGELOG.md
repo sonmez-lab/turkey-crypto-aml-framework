@@ -523,3 +523,4 @@ All notable changes to this project.
 - [2025-12-15] Add: smart contract audit findings
 - [2025-12-16] Add: smart contract audit findings
 - [2025-12-16] Update: KYC/KYT process documentation
+- [2025-12-16] Fix: address validation edge cases
