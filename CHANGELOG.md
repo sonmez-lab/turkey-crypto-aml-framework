@@ -529,3 +529,4 @@ All notable changes to this project.
 - [2025-12-21] Research: DeFi compliance requirements
 - [2025-12-21] Update: OFAC SDN list integration
 - [2025-12-22] Research: blockchain compliance analysis
+- [2025-12-22] Analysis: FATF travel rule implementation
