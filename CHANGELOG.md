@@ -535,3 +535,4 @@ All notable changes to this project.
 - [2025-12-23] Add: transaction risk scoring model
 - [2025-12-23] Docs: API integration guidelines
 - [2025-12-24] Research: DeFi compliance requirements
+- [2025-12-24] Research: cross-border transaction monitoring
