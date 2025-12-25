@@ -537,3 +537,4 @@ All notable changes to this project.
 - [2025-12-24] Research: DeFi compliance requirements
 - [2025-12-24] Research: cross-border transaction monitoring
 - [2025-12-25] Fix: address validation edge cases
+- [2025-12-25] Update: watchlist matching algorithm
