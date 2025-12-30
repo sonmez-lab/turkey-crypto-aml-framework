@@ -544,3 +544,4 @@ All notable changes to this project.
 - [2025-12-28] Research: cross-border transaction monitoring
 - [2025-12-29] Update: watchlist matching algorithm
 - [2025-12-29] Fix: address validation edge cases
+- [2025-12-30] Docs: regulatory framework notes
