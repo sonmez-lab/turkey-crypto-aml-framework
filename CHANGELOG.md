@@ -553,3 +553,4 @@ All notable changes to this project.
 - [2025-12-31] Update: AML risk assessment methodology
 - [2026-01-01] Fix: address validation edge cases
 - [2026-01-02] Add: sanctions screening documentation
+- [2026-01-02] Fix: address validation edge cases
