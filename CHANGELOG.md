@@ -555,3 +555,4 @@ All notable changes to this project.
 - [2026-01-02] Add: sanctions screening documentation
 - [2026-01-02] Fix: address validation edge cases
 - [2026-01-06] Update: KYC/KYT process documentation
+- [2026-01-06] Update: watchlist matching algorithm
