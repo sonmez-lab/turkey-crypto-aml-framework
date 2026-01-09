@@ -564,3 +564,4 @@ All notable changes to this project.
 - [2026-01-08] Add: sanctions screening documentation
 - [2026-01-08] Fix: address validation edge cases
 - [2026-01-08] Add: sanctions screening documentation
+- [2026-01-08] Update: watchlist matching algorithm
