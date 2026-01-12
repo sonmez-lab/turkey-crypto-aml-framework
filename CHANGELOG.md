@@ -573,3 +573,4 @@ All notable changes to this project.
 - [2026-01-10] Research: cross-border transaction monitoring
 - [2026-01-11] Fix: address validation edge cases
 - [2026-01-11] Fix: address validation edge cases
+- [2026-01-12] Update: watchlist matching algorithm
