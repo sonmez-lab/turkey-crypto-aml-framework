@@ -578,3 +578,4 @@ All notable changes to this project.
 - [2026-01-13] Add: transaction risk scoring model
 - [2026-01-16] Research: cross-border transaction monitoring
 - [2026-01-16] Research: blockchain compliance analysis
+- [2026-01-16] Update: AML risk assessment methodology
