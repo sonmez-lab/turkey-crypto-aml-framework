@@ -576,3 +576,4 @@ All notable changes to this project.
 - [2026-01-12] Update: watchlist matching algorithm
 - [2026-01-13] Add: transaction risk scoring model
 - [2026-01-13] Add: transaction risk scoring model
+- [2026-01-16] Research: cross-border transaction monitoring
