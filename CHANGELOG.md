@@ -579,3 +579,4 @@ All notable changes to this project.
 - [2026-01-16] Research: cross-border transaction monitoring
 - [2026-01-16] Research: blockchain compliance analysis
 - [2026-01-16] Update: AML risk assessment methodology
+- [2026-01-18] Fix: address validation edge cases
