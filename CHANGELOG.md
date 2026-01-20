@@ -587,3 +587,4 @@ All notable changes to this project.
 - [2026-01-20] Docs: API integration guidelines
 - [2026-01-20] Update: AML risk assessment methodology
 - [2026-01-20] Refactor: compliance validation logic
+- [2026-01-20] Docs: API integration guidelines
