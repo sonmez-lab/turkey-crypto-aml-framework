@@ -584,3 +584,4 @@ All notable changes to this project.
 - [2026-01-19] Docs: regulatory framework notes
 - [2026-01-19] Research: blockchain compliance analysis
 - [2026-01-19] Research: blockchain compliance analysis
+- [2026-01-20] Docs: API integration guidelines
