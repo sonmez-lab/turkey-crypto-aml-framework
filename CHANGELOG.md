@@ -596,3 +596,4 @@ All notable changes to this project.
 - [2026-01-23] Docs: regulatory framework notes
 - [2026-01-23] Refactor: compliance validation logic
 - [2026-01-23] Update: watchlist matching algorithm
+- [2026-01-24] Research: cross-border transaction monitoring
