@@ -602,3 +602,4 @@ All notable changes to this project.
 - [2026-01-26] Update: AML risk assessment methodology
 - [2026-01-26] Research: cross-border transaction monitoring
 - [2026-01-26] Docs: regulatory framework notes
+- [2026-01-27] Update: AML risk assessment methodology
