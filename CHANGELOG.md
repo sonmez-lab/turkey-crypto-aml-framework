@@ -608,3 +608,4 @@ All notable changes to this project.
 - [2026-01-27] Refactor: compliance validation logic
 - [2026-01-29] Refactor: compliance validation logic
 - [2026-01-30] Add: sanctions screening documentation
+- [2026-01-30] Update: AML risk assessment methodology
