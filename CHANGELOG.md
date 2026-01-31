@@ -610,3 +610,4 @@ All notable changes to this project.
 - [2026-01-30] Add: sanctions screening documentation
 - [2026-01-30] Update: AML risk assessment methodology
 - [2026-01-30] Research: cross-border transaction monitoring
+- [2026-01-30] Fix: address validation edge cases
