@@ -613,3 +613,4 @@ All notable changes to this project.
 - [2026-01-30] Fix: address validation edge cases
 - [2026-02-02] Update: AML risk assessment methodology
 - [2026-02-02] Research: DeFi compliance requirements
+- [2026-02-02] Docs: API integration guidelines
