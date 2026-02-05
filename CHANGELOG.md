@@ -621,3 +621,4 @@ All notable changes to this project.
 - [2026-02-05] Add: transaction risk scoring model
 - [2026-02-05] Update: watchlist matching algorithm
 - [2026-02-05] Update: KYC/KYT process documentation
+- [2026-02-05] Fix: address validation edge cases
