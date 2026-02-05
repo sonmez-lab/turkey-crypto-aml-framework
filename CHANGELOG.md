@@ -619,3 +619,4 @@ All notable changes to this project.
 - [2026-02-03] Update: AML risk assessment methodology
 - [2026-02-04] Update: AML risk assessment methodology
 - [2026-02-05] Add: transaction risk scoring model
+- [2026-02-05] Update: watchlist matching algorithm
