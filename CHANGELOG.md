@@ -627,3 +627,4 @@ All notable changes to this project.
 - [2026-02-06] Add: transaction risk scoring model
 - [2026-02-06] Research: cross-border transaction monitoring
 - [2026-02-09] Add: sanctions screening documentation
+- [2026-02-10] Research: cross-border transaction monitoring
