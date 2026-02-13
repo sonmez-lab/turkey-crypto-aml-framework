@@ -632,3 +632,4 @@ All notable changes to this project.
 - [2026-02-10] Analysis: FATF travel rule implementation
 - [2026-02-11] Research: blockchain compliance analysis
 - [2026-02-11] Research: cross-border transaction monitoring
+- [2026-02-12] Update: KYC/KYT process documentation
