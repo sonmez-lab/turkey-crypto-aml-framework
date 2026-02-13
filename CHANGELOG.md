@@ -633,3 +633,4 @@ All notable changes to this project.
 - [2026-02-11] Research: blockchain compliance analysis
 - [2026-02-11] Research: cross-border transaction monitoring
 - [2026-02-12] Update: KYC/KYT process documentation
+- [2026-02-13] Add: smart contract audit findings
