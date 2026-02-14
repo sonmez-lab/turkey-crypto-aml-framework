@@ -637,3 +637,4 @@ All notable changes to this project.
 - [2026-02-13] Research: cross-border transaction monitoring
 - [2026-02-13] Update: watchlist matching algorithm
 - [2026-02-13] Update: watchlist matching algorithm
+- [2026-02-14] Refactor: compliance validation logic
