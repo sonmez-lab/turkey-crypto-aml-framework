@@ -643,3 +643,4 @@ All notable changes to this project.
 - [2026-02-17] Update: watchlist matching algorithm
 - [2026-02-17] Refactor: compliance validation logic
 - [2026-02-17] Research: blockchain compliance analysis
+- [2026-02-18] Docs: regulatory framework notes
