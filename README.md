@@ -132,6 +132,20 @@ Contributions welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guideli
 
 This framework is for informational purposes only and does not constitute legal advice. Consult with qualified legal counsel for specific compliance requirements.
 
+## 👤 Author
+
+**Osman Sönmez**
+
+Blockchain Security Researcher & Legal Tech Specialist | Smart Contract Auditor | Solidity Developer
+
+Bridging the gap between legal compliance and blockchain technology. Specializing in cryptocurrency AML/CFT frameworks, smart contract security audits, and regulatory technology solutions.
+
+- 🌐 Website: [osmansonmez.com](https://osmansonmez.com)
+- 💼 LinkedIn: [linkedin.com/in/sonmezosman](https://www.linkedin.com/in/sonmezosman)
+- 🔐 Focus: Blockchain Security | AML Compliance | Smart Contract Auditing
+
+---
+
 ## 📄 License
 
 MIT License - see [LICENSE](LICENSE) for details.
