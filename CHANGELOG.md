@@ -650,3 +650,4 @@ All notable changes to this project.
 - [2026-02-20] Docs: API integration guidelines
 - [2026-02-22] Add: smart contract audit findings
 - [2026-02-23] Docs: regulatory framework notes
+- [2026-02-23] Add: sanctions screening documentation
