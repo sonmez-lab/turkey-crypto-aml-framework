@@ -657,3 +657,4 @@ All notable changes to this project.
 - [2026-02-25] Research: cross-border transaction monitoring
 - [2026-02-25] Refactor: compliance validation logic
 - [2026-02-25] Fix: address validation edge cases
+- [2026-02-25] Update: KYC/KYT process documentation
