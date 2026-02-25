@@ -654,3 +654,4 @@ All notable changes to this project.
 - [2026-02-23] Add: smart contract audit findings
 - [2026-02-24] Refactor: compliance validation logic
 - [2026-02-24] Research: blockchain compliance analysis
+- [2026-02-25] Research: cross-border transaction monitoring
