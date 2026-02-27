@@ -1,3 +1,8 @@
+![CI](https://github.com/sonmez-lab/turkey-crypto-aml-framework/workflows/CI/badge.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![GitHub stars](https://img.shields.io/github/stars/sonmez-lab/turkey-crypto-aml-framework?style=social)
+![GitHub issues](https://img.shields.io/github/issues/sonmez-lab/turkey-crypto-aml-framework)
+
 # Turkey Crypto AML Framework
 
 ## 👤 Author
